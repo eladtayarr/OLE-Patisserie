@@ -93,6 +93,16 @@ body {
     padding: 0.6rem 1.2rem;
     border-radius: 4px;
   }
+  .btn-md-l {
+    padding: 0.6rem 10rem !important;
+    border-radius: 100px !important;
+  }
+  .btn-md-b {
+    background-color: mintcream !important;
+    padding: 0.6rem 15rem !important;
+    border-radius: 100px !important;
+  }
+
   .btn-lg {
     padding: 1rem 2.6rem;
     border-radius: 4px;
@@ -554,6 +564,7 @@ body {
     margin: auto;
     flex-wrap: initial;
   }
+
   @media (max-width: 991px) {
     .cid-sN2cSIjoTE .container {
       flex-wrap: inherit;
