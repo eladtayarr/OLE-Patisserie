@@ -94,12 +94,19 @@ body {
     border-radius: 4px;
   }
   .btn-md-l {
-    padding: 0.6rem 10rem !important;
+    padding: 0.5rem 10rem !important;
     border-radius: 100px !important;
   }
   .btn-md-b {
-    background-color: mintcream !important;
-    padding: 0.6rem 15rem !important;
+    font:bold;
+    background-color: rgba(176, 230, 234, 0.622) !important;
+    padding: 0.5rem 10rem !important;
+    border-radius: 100px !important;
+  }
+  .btn-md-r {
+    font:bold;
+    background-color: rgba(113, 179, 184, 0.622) !important;
+    padding: 0.5rem 10rem !important;
     border-radius: 100px !important;
   }
 
