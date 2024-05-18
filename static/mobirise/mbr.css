@@ -871,7 +871,7 @@ body {
     padding-top: 6rem;
     padding-bottom: 9rem;
     opacity: 0.8;
-    background-image: url("../../../root/assets/images/1.jpeg");
+    background-image: url("../../../static/images/1.jpeg");
   }
   .cid-sN2dg8se2K .content {
     padding: 1rem;
@@ -1004,7 +1004,7 @@ body {
   }
   .cid-sN2eCcv8AK #img1 {
     grid-area: img1;
-    background-image: url("../../../assets/images/3.jpg");
+    background-image: url("../../../static/images/3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1012,7 +1012,7 @@ body {
   }
   .cid-sN2eCcv8AK #img2 {
     grid-area: img2;
-    background-image: url("../../../assets/images/3.jpg");
+    background-image: url("../../../static/images/3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1020,7 +1020,7 @@ body {
   }
   .cid-sN2eCcv8AK #img3 {
     grid-area: img3;
-    background-image: url("../../../assets/images/4.jpg");
+    background-image: url("../../../static/images/4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1028,7 +1028,7 @@ body {
   }
   .cid-sN2eCcv8AK #img4 {
     grid-area: img4;
-    background-image: url("../../../assets/images/5.jpg");
+    background-image: url("../../../static/images/5.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1036,7 +1036,7 @@ body {
   }
   .cid-sN2eCcv8AK #img5 {
     grid-area: img5;
-    background-image: url("../../../assets/images/6.jpg");
+    background-image: url("../../../static/images/6.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1044,7 +1044,7 @@ body {
   }
   .cid-sN2eCcv8AK #img6 {
     grid-area: img6;
-    background-image: url("../../../assets/images/7.jpg");
+    background-image: url("../../../static/images/7.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1203,7 +1203,7 @@ body {
       top: 0;
       left: 0;
       opacity: 0.7;
-      background-image: url("../../../assets/images/1.jpg");
+      background-image: url("../../../static/images/1.jpg");
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
