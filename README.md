@@ -101,4 +101,5 @@ The `static/` folder contains static assets such as CSS files, JavaScript files,
 OLE-pâtisserie is a robust web application that combines Flask, Node.js, and MongoDB to create a seamless experience for both customers and admins. The project demonstrates effective use of backend technologies, database management, and frontend development to manage a patisserie business efficiently.
 
 ## Video of this Project
-OLE-Vid.mov
+https://github.com/user-attachments/assets/6b1cebfe-1c2b-4fb1-bb77-71dd5b4694ef
+
